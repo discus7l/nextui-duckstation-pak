@@ -1,0 +1,17 @@
+{
+  "name": "DUCK",
+  "version": "v1.0.0",
+  "type": "EMU",
+  "description": "A PSX addon for minarch, utilizing the Duckstation core.",
+  "author": "yu2kataoka",
+  "repo_url": "https://github.com/discus7l/nextui-duckstation-pak",
+  "release_filename": "DUCK.pak.zip",
+  "changelog": {
+    "v1.0.0": "Initial Release."
+  },
+  "platforms": [
+    "h700",
+	"tg5040",
+	"tg5050"
+  ]
+}
